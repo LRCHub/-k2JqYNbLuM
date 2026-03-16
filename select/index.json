@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "From Noir (English Ver.)",
+  "base_artist": "Empty old City",
+  "createdAt": "2026-03-16T12:54:11.068486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From Noir (English Ver.)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_From_Noir_(English_Ver.)_Empty_old_City.txt"
+    }
+  ]
+}
